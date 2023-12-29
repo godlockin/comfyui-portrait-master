@@ -1,0 +1,65 @@
+{
+  "meta_info": {
+    "config_type": "model_pose",
+    "display": {
+      "en": "Model pose",
+      "cn": "模特姿势"
+    },
+    "position": 20,
+    "replica": 1,
+    "value_type": "float"
+  },
+  "values": {
+    "default": "-",
+    "en": [
+      {"key": "Power Pose", "display": "Power Pose"},
+      {"key": "Walking Pose", "display": "Walking Pose"},
+      {"key": "The Over-the-Shoulder Look", "display": "The Over-the-Shoulder Look"},
+      {"key": "S-curve Pose", "display": "S-curve Pose"},
+      {"key": "Sitting Pose", "display": "Sitting Pose"},
+      {"key": "Close-Up Beauty Shot Pose", "display": "Close-Up Beauty Shot Pose"},
+      {"key": "Leaning Pose", "display": "Leaning Pose"},
+      {"key": "Arms Up Pose", "display": "Arms Up Pose"},
+      {"key": "Casual Stroll Pose", "display": "Casual Stroll Pose"},
+      {"key": "Headshot Pose", "display": "Headshot Pose"},
+      {"key": "Sitting Cross-Legged Pose", "display": "Sitting Cross-Legged Pose"},
+      {"key": "Back Arch Pose", "display": "Back Arch Pose"},
+      {"key": "Hand-on-Hip Pose", "display": "Hand-on-Hip Pose"},
+      {"key": "Gazing into the Distance Pose", "display": "Gazing into the Distance Pose"},
+      {"key": "Candid Laugh Pose", "display": "Candid Laugh Pose"},
+      {"key": "Dynamic Action Pose", "display": "Dynamic Action Pose"},
+      {"key": "Contrapposto Pose", "display": "Contrapposto Pose"},
+      {"key": "High Fashion Pose", "display": "High Fashion Pose"}
+    ],
+    "cn": [
+      {"key": "Power Pose", "display": "力量姿势"},
+      {"key": "Walking Pose", "display": "行走姿势"},
+      {"key": "The Over-the-Shoulder Look", "display": "肩头回眸"},
+      {"key": "S-curve Pose", "display": "S型姿势"},
+      {"key": "Sitting Pose", "display": "坐姿"},
+      {"key": "Close-Up Beauty Shot Pose", "display": "特写美姿势"},
+      {"key": "Leaning Pose", "display": "倾斜姿势"},
+      {"key": "Arms Up Pose", "display": "举手姿势"},
+      {"key": "Casual Stroll Pose", "display": "随意漫步姿势"},
+      {"key": "Headshot Pose", "display": "头部特写姿势"},
+      {"key": "Sitting Cross-Legged Pose", "display": "盘腿坐姿"},
+      {"key": "Back Arch Pose", "display": "背部弯曲姿势"},
+      {"key": "Hand-on-Hip Pose", "display": "手放腰上姿势"},
+      {"key": "Gazing into the Distance Pose", "display": "凝视远方姿势"},
+      {"key": "Candid Laugh Pose", "display": "自然笑容姿势"},
+      {"key": "Dynamic Action Pose", "display": "动态动作姿势"},
+      {"key": "Contrapposto Pose", "display": "反曲姿势"},
+      {"key": "High Fashion Pose", "display": "高级时尚姿势"}
+    ]
+  },
+  "weight": {
+    "default": 1,
+    "changeable": false,
+    "step": 0.1,
+    "min": 0.1,
+    "max": 1.95
+  },
+  "mix": {
+
+  }
+}

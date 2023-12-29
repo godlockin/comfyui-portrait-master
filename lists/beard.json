@@ -1,0 +1,69 @@
+{
+  "meta_info": {
+    "config_type": "beard",
+    "display": {
+      "en": "Beard",
+      "cn": "胡子"
+    },
+    "position": 21,
+    "replica": 1,
+    "value_type": "float"
+  },
+  "values": {
+    "default": "-",
+    "en": [
+      {"key": "Stubble Beard", "display": "Stubble Beard"},
+      {"key": "Goatee", "display": "Goatee"},
+      {"key": "Full Beard", "display": "Full Beard"},
+      {"key": "Van Dyke Beard", "display": "Van Dyke Beard"},
+      {"key": "Soul Patch", "display": "Soul Patch"},
+      {"key": "Garibaldi Beard", "display": "Garibaldi Beard"},
+      {"key": "Mutton Chops", "display": "Mutton Chops"},
+      {"key": "Circle Beard", "display": "Circle Beard"},
+      {"key": "Corporate Beard", "display": "Corporate Beard"},
+      {"key": "Balbo Beard", "display": "Balbo Beard"},
+      {"key": "Ducktail Beard", "display": "Ducktail Beard"},
+      {"key": "Chinstrap Beard", "display": "Chinstrap Beard"},
+      {"key": "Anchor Beard", "display": "Anchor Beard"},
+      {"key": "Chevron Mustache", "display": "Chevron Mustache"},
+      {"key": "Horseshoe Mustache", "display": "Horseshoe Mustache"},
+      {"key": "Handlebar Mustache", "display": "Handlebar Mustache"},
+      {"key": "Imperial Mustache", "display": "Imperial Mustache"},
+      {"key": "Pencil Mustache", "display": "Pencil Mustache"},
+      {"key": "Friendly Mutton Chops", "display": "Friendly Mutton Chops"},
+      {"key": "Zappa Mustache", "display": "Zappa Mustache"}
+    ],
+    "cn": [
+      {"key": "Stubble Beard", "display": "胡渣胡须"},
+      {"key": "Goatee", "display": "山羊胡"},
+      {"key": "Full Beard", "display": "浓密胡须"},
+      {"key": "Van Dyke Beard", "display": "范戴克胡须"},
+      {"key": "Soul Patch", "display": "灵魂贴"},
+      {"key": "Garibaldi Beard", "display": "加里巴尔迪胡须"},
+      {"key": "Mutton Chops", "display": "羊肉胡"},
+      {"key": "Circle Beard", "display": "圆胡"},
+      {"key": "Corporate Beard", "display": "企业胡须"},
+      {"key": "Balbo Beard", "display": "巴尔博胡须"},
+      {"key": "Ducktail Beard", "display": "鸭尾胡须"},
+      {"key": "Chinstrap Beard", "display": "下颌胡须"},
+      {"key": "Anchor Beard", "display": "锚胡须"},
+      {"key": "Chevron Mustache", "display": "雀字胡"},
+      {"key": "Horseshoe Mustache", "display": "马蹄胡"},
+      {"key": "Handlebar Mustache", "display": "手柄胡"},
+      {"key": "Imperial Mustache", "display": "帝国胡"},
+      {"key": "Pencil Mustache", "display": "铅笔胡"},
+      {"key": "Friendly Mutton Chops", "display": "友好羊肉胡"},
+      {"key": "Zappa Mustache", "display": "扎帕胡须"}
+    ]
+  },
+  "weight": {
+    "default": 1,
+    "changeable": false,
+    "step": 0.1,
+    "min": 0.1,
+    "max": 1.95
+  },
+  "mix": {
+
+  }
+}
